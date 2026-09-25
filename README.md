@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Lakshmi Sai 👋
 
-<!--
-**lakshmisai-07/lakshmisai-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💼 AI Trainee at Calibo
 
-Here are some ideas to get you started:
+I am an engineering student currently building my skills in programming, data analysis, and Artificial Intelligence. I enjoy learning through hands-on practice, solving problems, and working on practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Python
+- SQL
+- NumPy
+- Pandas
+- Jupyter Notebook
+
+### 📚 Currently Learning
+
+- Artificial Intelligence
+- Python Programming
+- Data Analysis
+- SQL
+- NumPy & Pandas
+
+### 📂 Projects
+
+- 🔐 [CodeAlpha Phishing Awareness Training](https://github.com/lakshmisai-07/CodeAlpha_PhishingAwarenessTraining)
+  - Cybersecurity awareness project focused on identifying phishing threats, understanding common phishing techniques, and following safe online practices.
+
+- 🛡️ [CodeAlpha Secure Coding Review](https://github.com/lakshmisai-07/CodeAlpha_SecureCodingReview)
+  - Secure coding project focused on identifying security vulnerabilities, analyzing risks, and understanding secure coding practices.
+
+### 🤝 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/lakshmi-sai-pamulapati-9ba054376)
